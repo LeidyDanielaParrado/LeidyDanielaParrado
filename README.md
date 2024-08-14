@@ -1,8 +1,5 @@
 # about me
 
 
-- 🌱 I’m currently learning tecnologo en analisis y desarrollo de software en el SENA
+- 🌱 I’m currently studying tecnology in software análisis and development in the SENA
 - 📫 How to reach me: instagram @leidy_daniela_parrado
-- 😄 Pronouns: ella
-- ⚡ Fun fact: tengo TDAH lol
-
